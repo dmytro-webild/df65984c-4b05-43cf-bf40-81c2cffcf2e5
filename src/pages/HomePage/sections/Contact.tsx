@@ -17,7 +17,7 @@ export default function ContactSection(): React.JSX.Element {
             href: "mailto:hello@creativelandscapes.co.uk",
           }}
           secondaryButton={{
-            text: "Call 01484 000000",
+            text: "Call  01484 605 016",
             href: "tel:01484000000",
           }}
           textAnimation="slide-up"
