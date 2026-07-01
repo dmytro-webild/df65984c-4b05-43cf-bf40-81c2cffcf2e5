@@ -15,25 +15,35 @@ export default function ServicesSection(): React.JSX.Element {
           description="Tailored landscaping services designed to elevate your home's exterior appeal and functionality."
           features={[
             {
-              title: "Bespoke Paving & Stone",
-              description: "Expertly crafted patios and paths in natural stone.",
-              imageSrc: "http://img.b2bpic.net/free-photo/photo-stone-texture-pattern_58702-14140.jpg",
+              title: "Paving & Stonework",
+              description: "Expertly crafted patios, paths, and driveways using premium natural stone and porcelain.",
+              imageSrc: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80",
             },
             {
-              title: "Modern Fencing & Decking",
-              description: "High-quality privacy solutions and stunning decking areas.",
-              imageSrc: "http://img.b2bpic.net/free-photo/modern-wooden-fence-lush-green-hedge-garden-landscape_626616-510.jpg",
+              title: "Fencing & Decking",
+              description: "High-quality timber and composite decking, alongside durable fencing solutions for privacy.",
+              imageSrc: "https://images.unsplash.com/photo-1525088553748-01d6e24380cd?auto=format&fit=crop&q=80",
             },
             {
-              title: "Professional Planting",
-              description: "Expert landscape design with curated plants.",
-              imageSrc: "http://img.b2bpic.net/free-photo/gardening_23-2148013398.jpg",
+              title: "Landscape Design",
+              description: "Comprehensive garden design services, from initial concept to full 3D visualization.",
+              imageSrc: "https://images.unsplash.com/photo-1558904541-efa843a96f09?auto=format&fit=crop&q=80",
+            },
+            {
+              title: "Planting Schemes",
+              description: "Bespoke planting plans tailored to your garden's soil, aspect, and your personal style.",
+              imageSrc: "https://images.unsplash.com/photo-1558905051-14e274af7819?auto=format&fit=crop&q=80",
+            },
+            {
+              title: "Turfing & Lawns",
+              description: "Professional installation of premium natural turf and high-quality artificial grass.",
+              imageSrc: "https://images.unsplash.com/photo-1592424001807-26c715a818f1?auto=format&fit=crop&q=80",
             },
             {
               title: "Water Features",
-              description: "Add tranquility with custom-built ponds and water features.",
-              imageSrc: "http://img.b2bpic.net/free-photo/chairs-white-garden-resort-chair_1203-4439.jpg",
-            },
+              description: "Custom-built ponds, fountains, and contemporary water features to add tranquility to your space.",
+              imageSrc: "https://images.unsplash.com/photo-1542361345-89e58247f2d5?auto=format&fit=crop&q=80",
+            }
           ]}
           textAnimation="slide-up"
         />
