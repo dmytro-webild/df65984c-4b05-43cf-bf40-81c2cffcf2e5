@@ -11,7 +11,7 @@ export default function HeroSection(): React.JSX.Element {
         <SectionErrorBoundary name="hero">
               <HeroBillboardCarousel
           tag="Yorkshire's Premium Landscapers"
-          title="Creating Exceptional Outdoor Living Spaces in Huddersfield & Yorkshire"
+          title="Building Exceptional Outdoor Living Spaces in Huddersfield & Yorkshire"
           description="We blend professional landscaping expertise with local heart. From bespoke patio design to complete garden renovations, we turn your outdoor vision into a premium reality."
           primaryButton={{
             text: "Request A Free Quote",
