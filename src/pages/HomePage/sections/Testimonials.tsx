@@ -15,39 +15,18 @@ export default function TestimonialsSection(): React.JSX.Element {
           description="See why homeowners across Huddersfield choose us for their landscaping needs."
           testimonials={[
             {
-              name: "Sarah Miller",
-              role: "Homeowner",
-              company: "Huddersfield",
-              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-woman-looking-camera_23-2148317302.jpg",
-            },
-            {
-              name: "James & Emma",
-              role: "Clients",
-              company: "Holmfirth",
-              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-couple-decorating-home_23-2150633269.jpg",
-            },
-            {
-              name: "David Thompson",
-              role: "Property Owner",
-              company: "Yorkshire",
-              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/blue-eyed-bearded-male-using-laptop-cafe-street_613910-12216.jpg",
-            },
-            {
-              name: "Linda Wright",
+              name: "Simon Hartley",
               role: "Client",
               company: "Huddersfield",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/friends-taking-care-their-plants-greenhouse_23-2149037274.jpg",
+              quote: "I just wanted to thank Steven and his team for the work that has been carried out for us. We are totally delighted! From start to finish we were thoroughly impressed on how professional and punctual the team was. I will certainly be recommending your services to others.",
             },
             {
-              name: "Mark Roberts",
-              role: "Homeowner",
-              company: "Holmfirth",
+              name: "Kit White",
+              role: "Client",
+              company: "Huddersfield",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/outdoors-street-portrait-beautiful-young-brunette-woman_1153-5232.jpg",
+              quote: "We were thrilled with Steve’s work! We had some raised beds built and an Indian sandstone patio laid, the work was done...",
             },
           ]}
           textAnimation="slide-up"
