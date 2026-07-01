@@ -4,8 +4,10 @@
 import React from 'react';
 import ContactCta from '@/components/sections/contact/ContactCta';
 import SectionErrorBoundary from "@/components/ui/SectionErrorBoundary";
+import { useButtonClick } from "@/hooks/useButtonClick";
 
 export default function ContactSection(): React.JSX.Element {
+  const handleButtonClick = useButtonClick();
   return (
     <div id="contact" data-section="contact">
         <SectionErrorBoundary name="contact">
@@ -14,8 +16,12 @@ export default function ContactSection(): React.JSX.Element {
           text="Let’s transform your garden today. Get in touch for a free, professional consultation."
           primaryButton={{
             text: "Book Free Quote",
-            href: "/quote",
-          }}
+            href: "/quote-request",
+            onClick: (e: React.MouseEvent) => {
+              e.preventDefault();
+              handleButtonClick("/quote-request");
+            }
+          } as any}
           secondaryButton={{
             text: "Call  01484 605 016",
             href: "tel:01484000000",
