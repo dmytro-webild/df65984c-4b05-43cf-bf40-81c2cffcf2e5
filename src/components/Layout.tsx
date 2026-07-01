@@ -78,7 +78,7 @@ export default function Layout() {
           ],
         },
       ]}
-      leftText="© 2024 Creative Landscapes Yorkshire"
+      leftText="© 2026 Creative Landscapes Yorkshire"
       rightText="Professional Landscaping in Huddersfield & Holmfirth"
     />
       </SectionErrorBoundary>
