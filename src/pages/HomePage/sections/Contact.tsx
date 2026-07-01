@@ -16,7 +16,7 @@ export default function ContactSection(): React.JSX.Element {
           text="Let’s transform your garden today. Get in touch for a free, professional consultation."
           primaryButton={{
             text: "Book Free Quote",
-            href: "/quote-request",
+            href: "https://www.google.co.uk",
             onClick: (e: React.MouseEvent) => {
               handleButtonClick(e);
             }
