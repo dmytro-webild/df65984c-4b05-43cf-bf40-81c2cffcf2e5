@@ -40,7 +40,7 @@ export default function Layout() {
       logo="CLY"
       logoImageSrc="https://storage.googleapis.com/webild/default/no-image.jpg?id=spbyki"
       ctaButton={{
-        text: "Get Free Quote",        href: "#contact"}}
+        text: "Get Free Quote",        href: "/quote-request"}}
      navItems={navItems} />
       </SectionErrorBoundary>
       <main className="flex-grow">
