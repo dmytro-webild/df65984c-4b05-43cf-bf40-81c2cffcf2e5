@@ -15,7 +15,7 @@ export default function TestimonialsSection(): React.JSX.Element {
           description="See why homeowners across Huddersfield choose us for their landscaping needs."
           testimonials={[
             {
-              name: "Simon Hartley",
+              name: "Simon ",
               role: "Client",
               company: "Huddersfield",
               rating: 5,
