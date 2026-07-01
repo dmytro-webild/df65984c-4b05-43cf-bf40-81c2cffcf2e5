@@ -14,7 +14,7 @@ export default function ContactSection(): React.JSX.Element {
           text="Let’s transform your garden today. Get in touch for a free, professional consultation."
           primaryButton={{
             text: "Book Free Quote",
-            href: "mailto:hello@creativelandscapes.co.uk",
+            href: "/free-quote",
           }}
           secondaryButton={{
             text: "Call  01484 605 016",
