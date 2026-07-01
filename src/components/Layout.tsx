@@ -27,7 +27,9 @@ export default function Layout() {
   },
   {
     "name": "Faq",    "href": "#faq"
-  }
+  },
+  { name: "Quote Request", href: "/quote-request" },
+
 ];
 
   return (
