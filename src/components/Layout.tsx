@@ -8,32 +8,25 @@ import { StyleProvider } from "@/components/ui/StyleProvider";
 export default function Layout() {
   const navItems = [
   {
-    "name": "About",
-    "href": "#about"
+    "name": "About",    "href": "#about"
   },
   {
-    "name": "Services",
-    "href": "#services"
+    "name": "Services",    "href": "#services"
   },
   {
-    "name": "Portfolio",
-    "href": "#portfolio"
+    "name": "Portfolio",    "href": "#portfolio"
   },
   {
-    "name": "Testimonials",
-    "href": "#testimonials"
+    "name": "Testimonials",    "href": "#testimonials"
   },
   {
-    "name": "Hero",
-    "href": "#hero"
+    "name": "Hero",    "href": "#hero"
   },
   {
-    "name": "Metrics",
-    "href": "#metrics"
+    "name": "Metrics",    "href": "#metrics"
   },
   {
-    "name": "Faq",
-    "href": "#faq"
+    "name": "Faq",    "href": "#faq"
   }
 ];
 
@@ -43,11 +36,9 @@ export default function Layout() {
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
       logo="CLY"
-      logoImageSrc="https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=200&h=200&fit=crop"
+      logoImageSrc="https://storage.googleapis.com/webild/default/no-image.jpg?id=spbyki"
       ctaButton={{
-        text: "Get Free Quote",
-        href: "#contact",
-      }}
+        text: "Get Free Quote",        href: "#contact"}}
      navItems={navItems} />
       </SectionErrorBoundary>
       <main className="flex-grow">
@@ -57,50 +48,31 @@ export default function Layout() {
         <FooterBasic
       columns={[
         {
-          title: "Company",
-          items: [
+          title: "Company",          items: [
             {
-              label: "About Us",
-              href: "#about",
-            },
+              label: "About Us",              href: "#about"},
             {
-              label: "Portfolio",
-              href: "#portfolio",
-            },
+              label: "Portfolio",              href: "#portfolio"},
             {
-              label: "Contact",
-              href: "#contact",
-            },
+              label: "Contact",              href: "#contact"},
           ],
         },
         {
-          title: "Services",
-          items: [
+          title: "Services",          items: [
             {
-              label: "Paving & Stonework",
-              href: "#services",
-            },
+              label: "Paving & Stonework",              href: "#services"},
             {
-              label: "Fencing & Decking",
-              href: "#services",
-            },
+              label: "Fencing & Decking",              href: "#services"},
             {
-              label: "Landscape Design",
-              href: "#services",
-            },
+              label: "Landscape Design",              href: "#services"},
           ],
         },
         {
-          title: "Legal",
-          items: [
+          title: "Legal",          items: [
             {
-              label: "Privacy Policy",
-              href: "#",
-            },
+              label: "Privacy Policy",              href: "#"},
             {
-              label: "Terms of Service",
-              href: "#",
-            },
+              label: "Terms of Service",              href: "#"},
           ],
         },
       ]}
