@@ -18,8 +18,7 @@ export default function ContactSection(): React.JSX.Element {
             text: "Book Free Quote",
             href: "/quote-request",
             onClick: (e: React.MouseEvent) => {
-              e.preventDefault();
-              handleButtonClick("/quote-request");
+              handleButtonClick(e);
             }
           } as any}
           secondaryButton={{
