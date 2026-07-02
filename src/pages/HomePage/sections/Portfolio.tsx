@@ -27,7 +27,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Premium Paving",
               description: "Bespoke driveway solutions.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-gardening-tools-wooden-floor_23-2148200429.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985955-5ehw5rxd.webp",
             },
             {
               title: "Modern Terrace",
