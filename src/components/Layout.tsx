@@ -29,7 +29,6 @@ export default function Layout() {
     "name": "Faq",    "href": "#faq"
   },
   { name: "Quote Request", href: "/quote-request" },
-  { name: "01484 605016", href: "tel:01484605016" },
 
 ];
 
