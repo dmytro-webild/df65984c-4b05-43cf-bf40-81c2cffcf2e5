@@ -45,8 +45,8 @@ export default function PortfolioSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955676482-ujpw1039.jpg",
             },
             {
-              title: "Functional ",
-              description: "Functional and Convenience  ",
+              title: "Pergolas ",
+              description: "Pergolas and Convenience  ",
               imageSrc: "http://img.b2bpic.net/free-photo/fumigation_23-2148013411.jpg",
             },
           ]}
