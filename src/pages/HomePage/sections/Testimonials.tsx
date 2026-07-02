@@ -10,14 +10,18 @@ export default function TestimonialsSection(): React.JSX.Element {
         textAnimation="slide-up"
         testimonials={[
           {
-            "name": "Simon",
-            "role": "Client, Huddersfield",
-            "quote": "I just wanted to thank Steven and his team for the work that has been carried out for us. We are totally delighted! From start to finish we were thoroughly impressed on how professional and punctual the team was. I will certainly be recommending your services to others."
+            name: "Simon",
+            role: "Client, Huddersfield",
+            quote: "I just wanted to thank Steven and his team for the work that has been carried out for us. We are totally delighted! From start to finish we were thoroughly impressed on how professional and punctual the team was. I will certainly be recommending your services to others.",
+            rating: 5,
+            imageSrc: ""
           },
           {
-            "role": "Client, Huddersfield",
-            "quote": "We were thrilled with Steve’s work! We had some raised beds built and an Indian sandstone patio laid, the work was done to a very high standard and the team were polite and hardworking.",
-            "name": "Kit White"
+            name: "Kit White",
+            role: "Client, Huddersfield",
+            quote: "We were thrilled with Steve’s work! We had some raised beds built and an Indian sandstone patio laid, the work was done to a very high standard and the team were polite and hardworking.",
+            rating: 5,
+            imageSrc: ""
           }
         ]}
         title="Hear From Our Happy Clients"
