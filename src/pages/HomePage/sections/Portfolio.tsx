@@ -22,12 +22,12 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Holmfirth Garden",
               description: "Full garden renovation.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp?_wi=2",
             },
             {
               title: "Premium Paving",
               description: "Bespoke driveway solutions.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-z9tzks6p.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-z9tzks6p.webp?_wi=2",
             },
             {
               title: "Modern Terrace",
@@ -37,7 +37,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Planting Design",
               description: "Curated residential garden.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955666569-3kl2mknn.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955666569-3kl2mknn.jpg?_wi=2",
             },
             {
               title: "Garden Path",

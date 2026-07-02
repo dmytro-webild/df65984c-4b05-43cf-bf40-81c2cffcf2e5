@@ -26,16 +26,16 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985958-pkzybhtg.webp",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-z9tzks6p.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-z9tzks6p.webp?_wi=1",
             },
             {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985958-r3jgrgtk.webp",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955666569-3kl2mknn.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955666569-3kl2mknn.jpg?_wi=1",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp?_wi=1",
             },
             {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985954-zkzga7my.webp",
