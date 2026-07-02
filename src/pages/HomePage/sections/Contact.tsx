@@ -17,10 +17,7 @@ export default function ContactSection(): React.JSX.Element {
           primaryButton={{
             text: "Book Free Quote",
             href: "/quote",
-            onClick: (e: React.MouseEvent) => {
-              handleButtonClick(e);
-            }
-          } as any}
+          }}
           secondaryButton={{
             text: "Call  01484 605 016",
             href: "tel:01484000000",
