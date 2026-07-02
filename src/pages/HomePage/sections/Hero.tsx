@@ -29,7 +29,7 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "http://img.b2bpic.net/free-photo/street-texture-retro-tuscany-city_1203-5049.jpg",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/rustic-patio-furniture-house-deck-with-vegetation_23-2150698322.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985958-r3jgrgtk.webp",
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/cityscape-office-buildings_1127-2949.jpg",
