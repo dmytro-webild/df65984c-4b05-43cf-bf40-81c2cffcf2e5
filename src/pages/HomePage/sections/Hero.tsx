@@ -35,7 +35,7 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "http://img.b2bpic.net/free-photo/cityscape-office-buildings_1127-2949.jpg",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/view-futuristic-looking-city_23-2150946699.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp",
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/full-length-portrait-stylish-smiling-woman-walking-exotic-street-near-hotel-sunny-hot-day-spending-her-vacation-los-angeles_273443-2714.jpg",
