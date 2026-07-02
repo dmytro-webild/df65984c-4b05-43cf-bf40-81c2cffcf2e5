@@ -19,8 +19,8 @@ export default function ContactSection(): React.JSX.Element {
             href: "/quote-request",
           }}
           secondaryButton={{
-            text: "Call  01484 605 016",
-            href: "tel:01484000000",
+            text: "01484 605 016",
+            href: "tel:01484605016",
           }}
           textAnimation="slide-up"
         />
