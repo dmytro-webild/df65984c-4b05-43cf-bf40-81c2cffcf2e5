@@ -38,7 +38,7 @@ export default function Layout() {
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
       logo="Creactive Landscapes Yorkshire "
-      logoImageSrc="https://storage.googleapis.com/webild/default/no-image.jpg?id=spbyki"
+      logoImageSrc="https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955418040-fvvvrrwk.png"
       ctaButton={{
         text: "Get Free Quote",        href: "/quote-request"}}
      navItems={navItems} />
