@@ -26,9 +26,6 @@ export default function Layout() {
     "name": "Testimonials",    "href": "#testimonials"
   },
   {
-    "name": "Hero",    "href": "#hero"
-  },
-  {
     "name": "Metrics",    "href": "#metrics"
   },
   {
