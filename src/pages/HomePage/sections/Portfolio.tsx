@@ -42,7 +42,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Garden Path",
               description: "Detailed stonework finish.",
-              imageSrc: "http://img.b2bpic.net/free-photo/analog-city-landscape-with-buildings-daylight_23-2149661429.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955676482-ujpw1039.jpg",
             },
             {
               title: "Outdoor Kitchen",
