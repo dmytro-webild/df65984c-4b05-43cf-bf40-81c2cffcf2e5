@@ -101,8 +101,7 @@ const NavbarFloatingLogo = ({ logo, logoImageSrc, navItems, ctaButton }: NavbarF
                     ))}
                   </div>
 
-                  <a href="tel:01484605016" className="hidden md:block text-sm font-medium hover:text-primary-cta transition-colors mr-2">01484 605 016</a>
-          <Button text={ctaButton.text} href={ctaButton.href} variant="primary" animate={false} className="w-full" />
+                  <Button text={ctaButton.text} href={ctaButton.href} variant="primary" animate={false} className="w-full" />
                 </div>
               </motion.div>
             )}
