@@ -37,7 +37,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
-      logo="CLY"
+      logo="Creactive Landscapes Yorkshire "
       logoImageSrc="https://storage.googleapis.com/webild/default/no-image.jpg?id=spbyki"
       ctaButton={{
         text: "Get Free Quote",        href: "/quote-request"}}
