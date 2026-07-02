@@ -46,7 +46,7 @@ export default function PortfolioSection(): React.JSX.Element {
             },
             {
               title: "Functional ",
-              description: "Bespoke patio feature.",
+              description: "Functional and Convenience  ",
               imageSrc: "http://img.b2bpic.net/free-photo/fumigation_23-2148013411.jpg",
             },
           ]}
