@@ -32,7 +32,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Modern Terrace",
               description: "Contemporary living space.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985954-zkzga7my.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985954-zkzga7my.webp?_wi=2",
             },
             {
               title: "Planting Design",
