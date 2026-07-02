@@ -38,7 +38,7 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp?_wi=1",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985954-zkzga7my.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985954-zkzga7my.webp?_wi=1",
             },
           ]}
           textAnimation="slide-up"
