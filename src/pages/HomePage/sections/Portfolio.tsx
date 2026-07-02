@@ -47,7 +47,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Pergolas ",
               description: "Pergolas and Convenience  ",
-              imageSrc: "http://img.b2bpic.net/free-photo/fumigation_23-2148013411.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-6evzosyn.webp",
             },
           ]}
           textAnimation="slide-up"
