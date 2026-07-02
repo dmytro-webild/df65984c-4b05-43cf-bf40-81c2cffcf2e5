@@ -32,7 +32,7 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985958-r3jgrgtk.webp",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/cityscape-office-buildings_1127-2949.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955666569-3kl2mknn.jpg",
             },
             {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp",
