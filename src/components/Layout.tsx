@@ -2,10 +2,16 @@ import FooterBasic from '@/components/sections/footer/FooterBasic';
 import NavbarFloatingLogo from '@/components/ui/NavbarFloatingLogo';
 import SectionErrorBoundary from "@/components/ui/SectionErrorBoundary";
 import SiteBackgroundSlot from "@/components/ui/SiteBackgroundSlot";
-import { Outlet } from 'react-router-dom';
+import { Outlet, useLocation } from 'react-router-dom';
+import { useEffect } from 'react';
 import { StyleProvider } from "@/components/ui/StyleProvider";
 
 export default function Layout() {
+  const location = useLocation();
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
   const navItems = [
   {
     "name": "About",    "href": "#about"
