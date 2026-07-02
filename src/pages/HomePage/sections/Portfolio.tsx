@@ -22,7 +22,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Holmfirth Garden",
               description: "Full garden renovation.",
-              imageSrc: "http://img.b2bpic.net/free-photo/wooden-seats-by-pool-with-parasols_53876-146253.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782953985957-0e6lsyqa.webp",
             },
             {
               title: "Premium Paving",
@@ -37,7 +37,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Planting Design",
               description: "Curated residential garden.",
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-shot-houses-pamplona-spain-with-scenery-sunset-background_181624-24642.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955666569-3kl2mknn.jpg",
             },
             {
               title: "Garden Path",
