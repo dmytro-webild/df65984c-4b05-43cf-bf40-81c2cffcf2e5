@@ -17,7 +17,7 @@ export default function PortfolioSection(): React.JSX.Element {
             {
               title: "Huddersfield Patio",
               description: "Natural stone patio design.",
-              imageSrc: "http://img.b2bpic.net/free-photo/city-view_1417-1895.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3Fv83KUYlJoI2yCApMcJ43LguDH/uploaded-1782955171786-2nce6d9z.jpg",
             },
             {
               title: "Holmfirth Garden",
